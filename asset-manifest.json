@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ToDo_App-ICTAK/static/css/main.073c9b0a.css",
+    "main.js": "/React-ToDo_App-ICTAK/static/js/main.9e5d159c.js",
+    "static/js/787.cda612ba.chunk.js": "/React-ToDo_App-ICTAK/static/js/787.cda612ba.chunk.js",
+    "index.html": "/React-ToDo_App-ICTAK/index.html",
+    "main.073c9b0a.css.map": "/React-ToDo_App-ICTAK/static/css/main.073c9b0a.css.map",
+    "main.9e5d159c.js.map": "/React-ToDo_App-ICTAK/static/js/main.9e5d159c.js.map",
+    "787.cda612ba.chunk.js.map": "/React-ToDo_App-ICTAK/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9e5d159c.js"
+  ]
+}
